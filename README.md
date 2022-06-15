@@ -1,4 +1,4 @@
-# Face_mask_detection_using_live_vide_streaming_Finalproject
+# Face_mask_detection_using_live_vide_streaming(Finalproject)
 
 ## Abstract
 
